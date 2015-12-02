@@ -1,0 +1,5 @@
+# fprog.organization
+
+* Contents
+
+  - [[file:napkin.org][Темы на салфетке]]
