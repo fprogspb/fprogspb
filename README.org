@@ -1,5 +1,6 @@
 # fprog.organization
 
-* Contents
+* Что здесь можно найти?
 
-  - [[file:napkin.org][Темы на салфетке]]
+  - [[file:napkin.org][Темы будущих докладов]]
+  - [[file:past-local.org][Доклады с локальных митапов]]
