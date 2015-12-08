@@ -7,10 +7,12 @@
 
 *** Макросы в Lisp - Михаил Глухов aka rigidus
 [[https://www.youtube.com/watch?v=i1lD2J7qLLM][Видео]]
+
 [[http://slides.com/rigidusrigidus/deck-2#/][Слайды]]
 
 *** Template Haskell - Мария Давыдова
 [[https://www.youtube.com/watch?v=tFP1-tqzPTI][Видео]]
+
 [[https://github.com/mariyadavydova/notes/blob/master/th/th.pdf][Слайды]]
 
 *** Макросы и парс-трансформации в Erlang - Ринат Идрисов
@@ -24,6 +26,7 @@
 средство моделирования крайне популярны сегодня, но
 существуют и другие нишевые подходы, в частности, языки
 моделирования вроде MiniZinc.
+
 [[https://www.youtube.com/watch?v=pkuTrgeQSyM][Видео]]
 
 ** 8 октября 2015
@@ -99,19 +102,23 @@ Scalactic.
 
 ** 15 апреля 2015
 
+[[https://www.youtube.com/watch?v=Dntj_SJSQPU&feature=youtu.be][Видео встречи]]
+
 *** ScalaCheck - Петр Громов
 
 *** Implicits in Scala - Саша Подхалюзин
 
 ** 16 января 2015
 
+[[https://www.youtube.com/watch?v=DpMqDsZFaAs&feature=youtu.be][Видео встречи]]
+
 *** Clojure&web: проблемы - Дмитрий Грошев
 
 G+ https://plus.google.com/u/0/+DmitryGroshev/about
 
-[[Video][https://www.youtube.com/watch?v=KkX57Al9uzM#t=3175]]
+[[https://www.youtube.com/watch?v=KkX57Al9uzM#t=3175][Video]]
 
-[[Slides][http://si14.github.io/sprug-2015-01-slides/#/]]
+[[http://si14.github.io/sprug-2015-01-slides/#/][Video]]
 
 Веб-разработка в мейнстримных языках вроде Ruby cломана, и в
 Clojure мы по привычке сломали её так же. В докладе мы
@@ -124,7 +131,7 @@ FB https://www.facebook.com/dmitry.bushenko
 
 G+ https://plus.google.com/u/0/117154292545224183708/posts
 
-[[Video][https://www.youtube.com/watch?v=KkX57Al9uzM#t=410]]
+[[https://www.youtube.com/watch?v=KkX57Al9uzM#t=410][Video]]
 
 Ссылки на проект:
 
@@ -144,13 +151,13 @@ Twitter https://twitter.com/LeebDeveloper
 
 G+ https://plus.google.com/+ИгнатТолчанов/
 
-[[Video][http://www.youtube.com/watch?v=EyNx_3KqCBY#t=684]]
+[[http://www.youtube.com/watch?v=EyNx_3KqCBY#t=684][Video]]
 
-[[Slides][http://www.google.com/url?q=http%3A%2F%2Fleebdeveloper.github.io%2Ftalks%2Fnifsched%2F&sa=D&sntz=1&usg=AFQjCNGy4owVwfIOAcPk6hHCqBvdzS_jbw]]
+[[http://www.google.com/url?q=http%3A%2F%2Fleebdeveloper.github.io%2Ftalks%2Fnifsched%2F&sa=D&sntz=1&usg=AFQjCNGy4owVwfIOAcPk6hHCqBvdzS_jbw][Slides]]
 
 *** Проект bitFunctor. Распределенная система хранения специфицированных элементов функционального кода - Андрей Ляшин
 
-[[Video][http://www.youtube.com/watch?v=nuJ4Cmg-YcI#t=2509]]
+[[http://www.youtube.com/watch?v=nuJ4Cmg-YcI#t=2509][Video]]
 
 В докладе рассказывается о проекте, ставящего своей целью
 создание распределенной программной среды, позволяющей
@@ -169,9 +176,9 @@ GitHub https://github.com/rigidus
 
 FB https://www.facebook.com/rigidus?fref=ts
 
-[[Video 1][http://www.youtube.com/watch?v=EyNx_3KqCBY#t=4230]]
+[[http://www.youtube.com/watch?v=EyNx_3KqCBY#t=4230][Video 1]]
 
-[[Video 2][http://www.youtube.com/watch?v=nuJ4Cmg-YcI]]
+[[http://www.youtube.com/watch?v=nuJ4Cmg-YcI][Video 2]]
 
 В докладе вы узнаете о одном из самых недооцененных подходов
 в программировании — "Литературном программировании". В
