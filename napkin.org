@@ -11,6 +11,9 @@
   [[http://www.youtube.com/watch?v=Agu6jipKfYw&index=1&list=FLx_7B0aft8ZqjvomJJnAS-Q][Controlling
   Time and Space]].
 
+*** ClojureScript Way (niquola)
+  Обзор clojure экосистемы для функционального UI
+
 ** Типы
 *** Лямбда-куб (mariyadavydova)
   Рассказ о формализации, позволяющей уложить в единую
