@@ -1,0 +1,5 @@
+* Полезные ссылки
+
+Пожалуйста, добавляйте ссылки на материалы, которые могут быть интересны участникам сообщества.
+
+[[http://steshaw.org/plt/][A path to enlightenment in Programming Language Theory]]
