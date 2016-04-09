@@ -1,5 +1,9 @@
 # fprog.organization
 
+* Где нас найти?
+
+Ссылка на регистрацию в Slack: bit.ly/piterunited
+
 * Что здесь можно найти?
 
   - [[file:napkin.org][Темы будущих докладов]]
