@@ -9,4 +9,5 @@
   - [[file:napkin.org][Темы будущих докладов]]
   - [[file:past-local.org][Доклады с локальных митапов]]
   - [[file:past-global.md][Доклады с глобальных митапов]]
+  - [[file:conference.md][Подготовка к конференции 2016]]
   - [[file:links.org][Полезные ссылки]]
